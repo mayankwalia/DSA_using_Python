@@ -1,3 +1,3 @@
-# <center> Here goes the .py files </center>
+# <p align=center> Here goes my .py files <p>
 - Some tricky problems
 - Some conceptual questions
